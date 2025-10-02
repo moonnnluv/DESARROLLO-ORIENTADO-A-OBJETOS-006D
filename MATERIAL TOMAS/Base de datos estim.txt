@@ -1,0 +1,11 @@
+CREATE DATABASE juegosDB;
+USE juegosDB;
+
+CREATE TABLE Juego (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(50),
+    desarrollador VARCHAR(30),
+    ano INT,
+    cantidad_jugadores INT,
+    genero VARCHAR(20)
+);

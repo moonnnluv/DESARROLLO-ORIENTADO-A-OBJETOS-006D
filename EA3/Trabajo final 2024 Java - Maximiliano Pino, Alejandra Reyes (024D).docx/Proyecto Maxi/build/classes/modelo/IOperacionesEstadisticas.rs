@@ -1,0 +1,2 @@
+modelo.IOperacionesEstadisticas
+modelo.OperacionesEstadisticas
